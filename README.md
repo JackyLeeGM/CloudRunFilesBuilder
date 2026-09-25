@@ -36,7 +36,7 @@ wget -qO imm.sh https://cafe.cpolar.top/wkdaily/zero3/raw/branch/main/zero3/imm.
 ```
 
 
-
+<details>
 <summary><h2>🍭鸣谢和引用的项目 👇🏿</h2></summary>
   
 > 【打包】https://github.com/megastep/makeself
